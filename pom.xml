@@ -113,11 +113,11 @@
         </repository>
         <repository>
             <id>sk89q-repo</id>
-            <url>http://maven.sk89q.com/repo/</url>
+            <url>https://maven.sk89q.com/repo/</url>
         </repository>
         <repository>
             <id>ustc</id>
-            <url>http://mirrors.ustc.edu.cn/</url>
+            <url>https://mirrors.ustc.edu.cn/</url>
         </repository>
         <repository>
             <id>fanciful-repo</id>
@@ -125,12 +125,12 @@
         </repository>
         <repository>
             <id>dmulloy2-repo</id>
-            <url>http://repo.dmulloy2.net/nexus/repository/public/</url>
+            <url>https://repo.dmulloy2.net/nexus/repository/public/</url>
         </repository>
         <repository>
             <id>Sonatype-public</id>
             <name>SnakeYAML repository</name>
-            <url>http://oss.sonatype.org/content/groups/public/</url>
+            <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
         <repository>
             <id>md_5-snapshots</id>
